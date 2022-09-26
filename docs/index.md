@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 东方小月的博客
+  name: 妖尾少年的博客
   text: 随便写点啥.
   tagline: 帅气又迷人的小月
   image:
@@ -10,11 +10,11 @@ hero:
     alt: Kitty
   actions:
     - theme: brand
-      text: 快来快来
+      text: 俩来来
       link: /articles/组件库环境搭建
     - theme: alt
       text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      link: https://github.com/FairyTailYouth
 
 features:
   - icon: ⚡️
