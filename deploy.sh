@@ -8,10 +8,10 @@ npm run docs:build
 
 
 # 将build生成的dist目录拷贝至上一层目录中
-cp -rf docs/.vuepress/dist ../vueDist/
+cp -rf ./docs/.vitepress/dist  ../MyVitpress2/
 
 # 进入待发布的目录
-cd ../vueDist/
+cd ../MyVitpress2/dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME
