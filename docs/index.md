@@ -10,7 +10,7 @@ hero:
     alt: Kitty
   actions:
     - theme: brand
-      text: 俩来来
+      text: asadasdas
       link: /articles/组件库环境搭建
     - theme: alt
       text: View on Gitee
