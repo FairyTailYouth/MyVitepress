@@ -18,7 +18,7 @@ export default {
     nav: [
       { text: "博客", link: "/articles/组件库环境搭建" },
       { text: "GuideTest", link: "/guide/test" },
-      { text: "gitee", link: "https://gitee.com/geeksdidi" },
+      { text: "gitee", link: "https://github.com/FairyTailYouth" },
       {
         text: "Drop Menu",
         items: [
