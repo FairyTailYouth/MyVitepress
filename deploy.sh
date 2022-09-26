@@ -6,7 +6,7 @@ set -e
 # 构建
 npm run docs:build
 
-
+rm -rf ../MyVitpress2/dist/*
 # 将build生成的dist目录拷贝至上一层目录中
 cp -rf ./docs/.vitepress/dist  ../MyVitpress2/
 
