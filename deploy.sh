@@ -6,12 +6,12 @@ set -e
 # 构建
 npm run docs:build
 
-rm -rf ../MyVitpress2/dist/*
+rm -rf D:\MyVitpress2\dist\*
 # 将build生成的dist目录拷贝至上一层目录中
-cp -rf ./docs/.vitepress/dist  ../MyVitpress2/
+cp -rf ./docs/.vitepress/dist  D:\MyVitpress2\dist\
 
 # 进入待发布的目录
-cd ../MyVitpress2/dist
+cd D:\MyVitpress2\dist
 
 # 如果是发布到自定义域名
 # echo 'www.example.com' > CNAME

@@ -5,7 +5,7 @@ export default {
     siteTitle: "Kitty",
     logo: "/logo.png",
     socialLinks: [
-      { icon: "github", link: "https://gitee.com/geeksdidi" },
+      { icon: "github", link: "https://github.com/FairyTailYouth" },
       { icon: "twitter", link: "..." },
       // You can also add custom icons by passing SVG as string:
       {
