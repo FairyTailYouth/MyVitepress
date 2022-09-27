@@ -1,3 +1,8 @@
+/*
+ * @Autor: zt
+ * @Description: 
+ * @Date: 2022-09-27 11:09:34
+ */
 export default {
   title: "kittyui", //站点标题
   description: "一个vue3组件库", //mate标签description，多用于搜索引擎抓取摘要
@@ -40,6 +45,94 @@ export default {
     sidebar: {
       "/articles/": [
         {
+          text: "HTML",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "CSS",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "JavaScrpit",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "pinia",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "Vue2",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "Vue3",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "TypeScript",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
+          text: "Linux",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "pina和vuex",
+              link: "/articles/pina和vuex",
+            },
+          ],
+        },
+        {
           text: "组件库源码实现",
           collapsible: true,
           items: [
@@ -61,6 +154,7 @@ export default {
             },
           ],
         },
+
       ],
     },
   },
