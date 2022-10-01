@@ -72,8 +72,12 @@ export default {
           collapsed: true,
           items: [
             {
-              text: "pina和vuex",
-              link: "/articles/pina和vuex",
+              text: "学习连接",
+              link: "/articles/javascript/index",
+            },
+            {
+              text: "Obeject",
+              link: "/articles/javascript/Object对象",
             },
           ],
         },
