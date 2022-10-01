@@ -154,6 +154,17 @@ export default {
             },
           ],
         },
+        {
+          text: "webgl教程",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "初识webgl",
+              link: "/articles/webGl基础",
+            },
+          ],
+        },
 
       ],
     },
