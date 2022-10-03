@@ -169,6 +169,17 @@ export default {
             },
           ],
         },
+        {
+          text: "uniapp",
+          collapsible: true,
+          collapsed: true,
+          items: [
+            {
+              text: "安装配置",
+              link: "/articles/uniapp/安装和使用",
+            },
+          ],
+        },
 
       ],
     },
