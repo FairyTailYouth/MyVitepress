@@ -79,6 +79,10 @@ export default {
               text: "Obeject",
               link: "/articles/javascript/Object对象",
             },
+            {
+              text: "promise",
+              link: "/articles/javascript/promise解读",
+            },
           ],
         },
         {
