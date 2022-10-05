@@ -9,7 +9,7 @@
 [Object的相关方法](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object)  
 
 #### 重难点解读
-Object本身是一个函数可以当工具方法使用,把任意值转为对象,如果参数为空（或者为undefined和null），Object()返回一个空对象。1
+Object本身是一个函数可以当工具方法使用,把任意值转为对象,如果参数为空（或者为undefined和null），Object()返回一个空对象。
 ````
 let obj = Object();
 // 等同于
